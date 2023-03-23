@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NevzatTaha
-- 👀 I’m interested in data science and data analysis.
+- 👀 I’m studying data science and data analysis.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on data analysis or machine learning projects.
 - 📫 How to reach me nevtahaayhan@gmail.com 
